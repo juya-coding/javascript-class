@@ -1,0 +1,19 @@
+body {
+    background-color: #ecf0f1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+}
+
+.btn {
+    cursor: pointer;
+}
+
+h1 {
+    color: #34495e;
+}
+
+.clicked {
+    color: #7f8c8d;
+}
